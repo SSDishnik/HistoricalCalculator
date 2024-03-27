@@ -1,9 +1,7 @@
 package org.example.utils;
 
 import lombok.Getter;
-import org.example.models.Record;
 import org.hibernate.SessionFactory;
-import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
 import org.hibernate.cfg.Configuration;
 
 public class HibernateUtil {
